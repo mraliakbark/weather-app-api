@@ -34,3 +34,12 @@ http://localhost:8080/weather/all?minTemp=25
 
 -- Fetches single city
 http://localhost:8080/weather/Mumbai
+
+**SCREENSHOTS**
+
+![Fetch & store city weather Endpoint](screenshots/Screenshot%202025-12-12%20161143.png)
+![Get all city](screenshots/Screenshot%202025-12-12%20161152.png)
+![Fetches with condition](screenshots/Screenshot%202025-12-12%20161159.png)
+![Fetches single city](screenshots/Screenshot%202025-12-12%20161206.png)
+
+
